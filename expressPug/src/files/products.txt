@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Shampo1",
+    "title": "shampoo",
+    "price": "1234",
+    "thumbnail": "http://localhost:8080/images/1637338787967Shampoo Silver.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Gel",
+    "title": "gel",
+    "price": "344",
+    "thumbnail": "http://localhost:8080/images/1637338804608Ampolla Powerdose Repair.jpg"
+  },
+  {
+    "id": 3,
+    "name": "test2",
+    "title": "gel",
+    "price": "2223",
+    "thumbnail": "http://localhost:8080/images/1637766226536mythic oil.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Test4",
+    "title": "acondicionador",
+    "price": "2222",
+    "thumbnail": "http://localhost:8080/images/1637877677553small talk tigi.jpg"
+  },
+  {
+    "id": 5,
+    "name": "TEST5",
+    "title": "gel",
+    "price": "1212",
+    "thumbnail": "http://localhost:8080/images/1637878557182small talk tigi.jpg"
+  },
+  {
+    "id": 6,
+    "name": "TEST6",
+    "title": "shampoo",
+    "price": "1212",
+    "thumbnail": "http://localhost:8080/images/1637883114574Morroccanoil Prime.png"
+  }
+]

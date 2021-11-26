@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Shampo1",
+    "title": "shampoo",
+    "price": "1234",
+    "thumbnail": "http://localhost:8080/images/1637338787967Shampoo Silver.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Gel",
+    "title": "gel",
+    "price": "344",
+    "thumbnail": "http://localhost:8080/images/1637338804608Ampolla Powerdose Repair.jpg"
+  },
+  {
+    "id": 3,
+    "name": "test2",
+    "title": "gel",
+    "price": "2223",
+    "thumbnail": "http://localhost:8080/images/1637766226536mythic oil.jpg"
+  },
+  {
+    "id": 4,
+    "name": "TEST",
+    "title": "crema",
+    "price": "12121",
+    "thumbnail": "http://localhost:8080/images/1637877366090Morroccanoil Prime.png"
+  }
+]
